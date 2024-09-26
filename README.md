@@ -18,6 +18,9 @@ Este projeto é uma **Landing Page** responsiva e animada para um restaurante fi
 - **Depoimentos**: Seção de avaliações dos clientes, com avatares e estrelas de feedback.
 - **Botões de ação**: Links para redes sociais e botão para fazer pedidos via telefone.
 
+## 🌐 Acesse a Landing Page
+
+Visite a página ao vivo: [Rango do Tuba](https://gabrielcafens.github.io/RangodoTuba/)
 ## 📸 Capturas de Tela
 
 Aqui estão algumas imagens do projeto em funcionamento:
