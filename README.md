@@ -43,12 +43,12 @@ Siga os passos abaixo para rodar este projeto no seu ambiente local:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Gabrielcafens/LandingPageFood.git
+   git clone**https://github.com/Gabrielcafens/RangodoTuba.git **
    ```
 
 2. Navegue até o diretório do projeto:
   ```bash
-   cd LandingPageFood
+   cd RangodoTuba
    ```
 3. Abra o arquivo index.html no seu navegador para visualizar a landing page.
 
