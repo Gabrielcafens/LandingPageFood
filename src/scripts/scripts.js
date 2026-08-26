@@ -32,8 +32,12 @@ $(window).on('scroll', function () {
         }
     })
 
+    const activeSectionId = sections.eq(activeSectionIndex).attr('id');
+
     navItems.removeClass('active');
-    $(navItems[activeSectionIndex]).addClass('active');
+    navItems.filter(function () {
+        return $(this).find('a').attr('href') === '#' + activeSectionId;
+    }).addClass('active');
 });
 
 ScrollReveal().reveal('#cta', {
